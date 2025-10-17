@@ -52,14 +52,6 @@ Upload your dataset to Google Drive or use direct download links in the notebook
 !unzip dataset.zip
 ```
 
-## 📚 Notebooks
-
-| Notebook | Description | Colab Link |
-|----------|-------------|------------|
-| 🧪 `01_data_preprocessing.ipynb` | Data loading and preprocessing | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
-| 🏗️ `02_model_training.ipynb` | Model architecture and training | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
-| 📊 `03_evaluation.ipynb` | Model evaluation and results | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/) |
-
 ## 🛠️ Technologies Used
 
 <div align="center">
